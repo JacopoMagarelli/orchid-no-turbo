@@ -1,6 +1,6 @@
 {
-    "name": "orchid/platform",
-    "description": "Platform for back-office applications, admin panel or CMS your Laravel app.",
+    "name": "aleide/orchid-no-turbo",
+    "description": "Modification of Orchid PHP admin panel",
     "keywords": [
         "framework",
         "laravel",
