@@ -45,7 +45,7 @@ class Menu extends Link
         'title'          => null,
         'icon'           => null,
         'href'           => null,
-        'turbo'          => true,
+        'turbo'          => false,
         'list'           => [],
         'source'         => null,
         'divider'        => false,

@@ -39,7 +39,7 @@ class Button extends Action
         'action'     => null,
         'confirm'    => null,
         'parameters' => [],
-        'turbo'      => true,
+        'turbo'      => false,
         'form'       => 'post-form',
     ];
 
